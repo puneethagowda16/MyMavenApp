@@ -30,3 +30,5 @@ stages{ stage('Checkout'){
 		echo 'Build failed'
 		}
 		}
+		}
+		}
